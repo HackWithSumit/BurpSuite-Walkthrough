@@ -24,6 +24,10 @@ The first tab that should be open is the Dashboard tab, but keep in mind that yo
 
 The Tasks section is where you can keep track of ongoing scans and processes
 
+![image](https://github.com/user-attachments/assets/a4b4c7a0-47d2-4c8e-8fcd-de1f8b568791)
+
+
+
 
 
 
