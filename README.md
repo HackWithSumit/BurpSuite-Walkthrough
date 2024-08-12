@@ -26,6 +26,12 @@ The Tasks section is where you can keep track of ongoing scans and processes
 
 ![image](https://github.com/user-attachments/assets/a4b4c7a0-47d2-4c8e-8fcd-de1f8b568791)
 
+The Issue activity section is where you can see the findings from your scans.
+
+Finding confidence is shown by how filled in the circle around the “!” is, a tentative finding that may be a false positive will be an outline, while certain findings are filled in completely. Finding severity is shown by color, with the highest severity being red.
+
+
+
 
 
 
