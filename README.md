@@ -12,3 +12,18 @@ Burp Suite walkthrough typically refers to a step-by-step guide on how to use Bu
 <br>
 ⚪This usually involves setting the proxy settings in your browser to point to 127.0.0.1:8080.
 <br>
+
+<b><h2>Dashboard</b></h2>
+
+The first tab that should be open is the Dashboard tab, but keep in mind that you can drag these tabs around so the order of your tabs may not match mine. I recommend putting them in an order that fits your workflow.
+
+
+
+![image](https://github.com/user-attachments/assets/d000cfcd-06c0-4a17-95b7-e0851a75c8f4)
+
+
+The Tasks section is where you can keep track of ongoing scans and processes
+
+
+
+
