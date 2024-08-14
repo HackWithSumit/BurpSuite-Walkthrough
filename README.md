@@ -57,7 +57,20 @@ If a URL in the sitemap is greyed out, it means it might have been mentioned in 
 
 ![image](https://github.com/user-attachments/assets/4480d94f-1eaa-47d3-9443-2f14f1cc494d)
 
-The contents section shows the requests you have made to the selected URL. In the lower section, you can view the request and response in detail
+The contents section shows the requests you have made to the selected URL. In the lower section, you can view the request and response in detail.
+
+![image](https://github.com/user-attachments/assets/27c4c4c0-70c7-4b2a-aa62-40df5de7fc77)
+
+The Inspector tab here can be clicked on to unfold a section that allows you to view the headers and attributes of the request and response.
+
+![image](https://github.com/user-attachments/assets/f0b34738-b68e-4483-b696-b8c337fea98c)
+
+If you select some text in the request or response, the inspector also allows you to view the length of the selected text as well as decode the selected text.
+
+
+
+
+
 
 
 
