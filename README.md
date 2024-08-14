@@ -55,6 +55,13 @@ Site Map: On the left, you’ll find the site map. It lists all the endpoints of
   
 If a URL in the sitemap is greyed out, it means it might have been mentioned in the site’s responses or found during a scan but hasn’t been visited yet.
 
+![image](https://github.com/user-attachments/assets/4480d94f-1eaa-47d3-9443-2f14f1cc494d)
+
+The contents section shows the requests you have made to the selected URL. In the lower section, you can view the request and response in detail
+
+
+
+
 
 
 
