@@ -30,6 +30,16 @@ The Issue activity section is where you can see the findings from your scans.
 
 Finding confidence is shown by how filled in the circle around the “!” is, a tentative finding that may be a false positive will be an outline, while certain findings are filled in completely. Finding severity is shown by color, with the highest severity being red.
 
+![image](https://github.com/user-attachments/assets/cd33dc4f-1517-4d7c-8503-b152f92ebede)
+
+The Advisory section provides detailed information about each security finding. It covers vulnerabilities, their impact, and even includes links for further exploration. You can also switch between tabs to see the triggering request and response, as well as find the issue’s location in the site’s source code.
+
+![image](https://github.com/user-attachments/assets/268065f9-24ed-43bb-b765-df6308510748)
+
+The event log shows basic activity information about things like scans and other processes.
+
+
+
 
 
 
