@@ -38,6 +38,25 @@ The Advisory section provides detailed information about each security finding. 
 
 The event log shows basic activity information about things like scans and other processes.
 
+<b><h2>Target</b></h2>
+
+The Target tag allows you to view the site map of the target site, as well as what requests you’ve made and what findings you have found for each endpoint.
+
+![image](https://github.com/user-attachments/assets/50162d3b-78c9-43c7-918b-ae8dde754b71)
+
+Site Map: On the left, you’ll find the site map. It lists all the endpoints of the target website. Here’s what each icon represents:
+
+📁 Folder icons: Directories
+<br>
+📄 Document icon: Files
+<br>
+⚙️ Gear icon: Parameterized requests
+<br>
+  
+If a URL in the sitemap is greyed out, it means it might have been mentioned in the site’s responses or found during a scan but hasn’t been visited yet.
+
+
+
 
 
 
