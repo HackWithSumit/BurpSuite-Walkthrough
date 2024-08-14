@@ -67,6 +67,15 @@ The Inspector tab here can be clicked on to unfold a section that allows you to 
 
 If you select some text in the request or response, the inspector also allows you to view the length of the selected text as well as decode the selected text.
 
+![image](https://github.com/user-attachments/assets/be6645c1-699a-4dc7-abf1-a02d5bec919f
+
+The Issues and Activity section mirrors what you see on the dashboard. It gives you a view of findings related to the selected URL, along with detailed information about each one.
+
+
+
+
+
+
 
 
 
